@@ -207,11 +207,6 @@ https://store-inventory-api-0n57.onrender.com
 
 ## 👨‍💻 Author
 
-**Prajesh Meena**
+**Prajesh Singh Meena**
 - GitHub: [@prajeshmeena69](https://github.com/prajeshmeena69)
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
+- LinkedIn: [Prajesh Singh Meena](http://www.linkedin.com/in/prajesh-singh-meena-607437327)
